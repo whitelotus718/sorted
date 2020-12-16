@@ -1,14 +1,14 @@
 // Implement Merge Sort
 
-function merge(array1, array2) {
-  // your code here
-}
+let array = [8, 7, 6, 5, 4, 3, 2, 1]
+//*  [8, 7, 6, 5, 4, 3, 2, 1]    n=8
+//*  l1 = [8, 7, 6, 5], l2 = [4, 3, 2, 1]    n=4
 
-function mergeSort(array) {
-  // your code here
-}
+function merge(array1, array2) {}
+
+function mergeSort(array) {}
 
 module.exports = {
-  merge,
-  mergeSort
-};
+	merge,
+	mergeSort,
+}
